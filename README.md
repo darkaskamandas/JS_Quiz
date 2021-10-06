@@ -1,2 +1,2 @@
 # JS_Quiz
-Javascript quiz game
+Javascript quiz app
